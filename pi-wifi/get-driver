@@ -6,7 +6,7 @@
 # note from 404invalid-user: i got this from http://downloads.fars-robotics.net/wifi-drivers/install-wifi this is a copy i dont take any rights i dont know the licene. this is just a backup that will never 404
 
 UPDATE_SELF=${UPDATE_SELF:-1}
-UPDATE_URI="http://invaliduser.uk.to/Perm/wifi-driver-install"
+UPDATE_URI="https://raw.githubusercontent.com/404invalid-user/Perm/main/pi-wifi/get-driver"
 
 ROOT_PATH=${ROOT_PATH:-"/"}
 WORK_PATH=${WORK_PATH:-"${ROOT_PATH}/root"}
