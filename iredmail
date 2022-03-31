@@ -1,0 +1,8 @@
+##### websites and commands i find useful for managing the iredmail email server
+
+add catch all email per domain
+https://docs.iredmail.org/sql.create.catch-all.html
+
+
+setup new domains
+https://www.linuxbabe.com/mail-server/set-up-iredmail-multiple-domains-nginx
